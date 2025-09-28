@@ -1,0 +1,5 @@
+The datasets as prepared for the project can be found in the following directory on the servers:
+/mount/studenten/team-lab-cl/data2025/MarioLuigi/datasets
+Uploading them here was unfortunately not possible due to size restrictions.
+Please note that the aforementioned CSVs are pre-normalisation, but the normalised files can also be found in the following directory on the servers:
+/mount/studenten/team-lab-cl/data2025/MarioLuigi/Version10numpy
